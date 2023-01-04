@@ -36,6 +36,10 @@ Un logiciel simple mais parfois complexe. Utilisé dans beaucoup d'entreprises.
 Puissant IDE
 ###
 
+## ClipChamp
+Video Editing Software, free to use for Windows Users
+Disponible sur Microsoft Store
+
 # Outils utile à apprendre
 ## Node.js
 Puissant outils permettant d'utiliser les websocket.
