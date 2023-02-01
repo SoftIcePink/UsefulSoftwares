@@ -11,33 +11,37 @@ https://annystudio.com/software/colorpicker/
 
 ## WinDirStat
 Dévoile la consommation d'espace disque. Chaque octet utilisé est correctement référencé à l'élément.
-
 ### Lien
 https://windirstat.net/
 
 ## GitBash / GitForWindows
 Permet l'utilisation des commandes git dans un terminal d'émulaition d'un terminal linux.
-
 ###Lien
 https://gitforwindows.org/
 
 ## Rufus
 Permet de créer un disque bootable (USB, carte SD, etc.)
-
 ### Lien
 https://rufus.ie
 
 ## VLC
 Visualisation de flux d'images (vidéos)
-###
+
+## OpenSSL
+Toolkit de cryptography.
+### Lien
+https://www.openssl.org/source/
+https://wiki.openssl.org/index.php/Binaries
+
+## SQLite
+Light vers., facile à mettre en place, recommended s'il y a peu de données à gérer.
+
 
 ## Visual Studio Code (VS Code)
 Un logiciel simple mais parfois complexe. Utilisé dans beaucoup d'entreprises.
-### 
 
 ## NetBeans
 Puissant IDE
-
 
 ## ClipChamp
 Video Editing Software, free to use for Windows Users
