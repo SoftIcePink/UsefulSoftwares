@@ -36,6 +36,12 @@ https://wiki.openssl.org/index.php/Binaries
 ## SQLite
 Light vers., facile à mettre en place, recommended s'il y a peu de données à gérer.
 
+## Wireshark
+Affiche les paquets traversant sur un réseau (avec autorisation du propriétaire du réseau).
+
+## Wireless Network Watcher
+Affiche les périphériques connectés au réseau WiFi par exemple pour s'assurer qu'il n'y ait que des appareils légitimes sur le réseau.
+Certains routeurs proposent déjà cela.
 
 ## Visual Studio Code (VS Code)
 Un logiciel simple mais parfois complexe. Utilisé dans beaucoup d'entreprises.
