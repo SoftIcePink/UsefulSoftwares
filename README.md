@@ -9,6 +9,11 @@ Application permettant de trouver la couleur exacte d'un élément sur l'écran.
 ### Lien
 https://annystudio.com/software/colorpicker/
 
+## Sysinternal Suite
+Ensemble d'application utile pour Windows
+### Lien
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
+
 ## WinDirStat
 Dévoile la consommation d'espace disque. Chaque octet utilisé est correctement référencé à l'élément.
 ### Lien
