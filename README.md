@@ -32,6 +32,13 @@ https://rufus.ie
 ## VLC
 Visualisation de flux d'images (vidéos)
 
+## Oracle Database XE pour Oracle SQL
+https://www.oracle.com/database/technologies/appdev/xe/quickstart.html
+
+## Graylog 
+Pour visualisation et monitoring des logs.
+
+
 ## OpenSSL
 Toolkit de cryptography.
 ### Lien
