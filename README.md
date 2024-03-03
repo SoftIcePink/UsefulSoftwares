@@ -76,7 +76,14 @@ Puissante bibliothèque CSS permettant de manipuler les formes et le designe plu
 ## Figma - Maquette, Wireframe
 Outil permettant de créer des maquettes extensibles (intéraction, vidéo, image, etc.)
 
+## Photopea
+Free to use Photoshop (client riche) without any local installation
+https://www.photopea.com/
 
+
+## Paletton
+Not a designer, just get this website to help you choose the colors.
+https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 
 # "Premium" (Pas nécessaire, mais pour faire bonne impression)
 ## ASCII Cinema
