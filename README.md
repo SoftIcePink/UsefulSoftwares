@@ -80,6 +80,9 @@ Outil permettant de créer des maquettes extensibles (intéraction, vidéo, imag
 Free to use Photoshop (client riche) without any local installation
 https://www.photopea.com/
 
+## ImageMagick
+It can be used to create, edit, compose, or convert bitmap images, and supports a wide range of file formats, including JPEG, PNG, GIF, TIFF, and Ultra HDR. CLI knowledge is required
+https://imagemagick.org/
 
 ## Paletton
 Not a designer, just get this website to help you choose the colors.
