@@ -88,6 +88,52 @@ https://imagemagick.org/
 Not a designer, just get this website to help you choose the colors.
 https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 
+--
+
+# Benchmark
+
+## 3DMark
+
+Used for GPU benchmarking. Offers detailed performance scores for gaming and graphics workloads.\
+[https://www.ul.com/3dmark](https://www.ul.com/3dmark)
+
+## AMD Adrenalin
+
+Utility for AMD GPU users. Supports undervolting, overclocking, fan tuning, and performance monitoring.\
+[https://www.amd.com/en/technologies/adrenalin](https://www.amd.com/en/technologies/adrenalin)
+
+## Cinebench
+
+CPU benchmarking tool based on real-world rendering tasks. Good for comparing single-core and multi-core performance.\
+[https://www.maxon.net/en/cinebench](https://www.maxon.net/en/cinebench)
+
+## Geekbench
+
+Cross-platform CPU and GPU benchmark. Useful for quick, synthetic performance snapshots.\
+[https://www.geekbench.com/](https://www.geekbench.com/)
+
+## CrystalDiskMark
+
+Tool for benchmarking SSD and HDD read/write speeds. Simple and widely used.\
+[https://crystalmark.info/en/software/crystaldiskmark/](https://crystalmark.info/en/software/crystaldiskmark/)
+
+## OCCT
+
+Comprehensive stress-testing tool for CPU, GPU, RAM, and power supplies. Also includes monitoring and diagnostics.\
+[https://www.ocbase.com/](https://www.ocbase.com/)
+
+## HWiNFO64
+
+Detailed hardware monitoring software. Useful for tracking temperatures, voltages, fan speeds, and more in real time.\
+[https://www.hwinfo.com/](https://www.hwinfo.com/)
+
+## Windows Memory Diagnostic / OCCT
+
+For RAM testing. You can use the built-in Windows Memory Diagnostic or OCCT’s memory stress test for deeper results.\
+[https://learn.microsoft.com/en-us/windows-client/performance/windows-memory-diagnostic](https://learn.microsoft.com/en-us/windows-client/performance/windows-memory-diagnostic)
+[https://www.ocbase.com/](https://www.ocbase.com/)
+
+
 # "Premium" (Pas nécessaire, mais pour faire bonne impression)
 ## ASCII Cinema
 Enregistre les terminaux de commandes à la place de tout l'écran.
